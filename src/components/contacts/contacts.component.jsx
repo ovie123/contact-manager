@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Contact from './contact.component';
 
-import { Consumer } from '../context';
+import { Consumer } from '../../context';
 class Contacts extends Component {
   render() {
     return (
